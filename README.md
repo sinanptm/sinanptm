@@ -7,8 +7,8 @@
 - 🌱 I’m continuously learning and improving my knowledge base.
 
 - 💼 I have experience working on diverse projects, including:
-  •  [E-commerce Platform](https://github.com/sinanptm/ecommerse-project): An e-commerce solution developed using the MERN stack.
   
+  •  [E-commerce Platform](https://github.com/sinanptm/ecommerse-project): An e-commerce solution developed using the MERN stack.
   •  [User Management System](https://github.com/sinanptm/user-managment-MERN): A comprehensive user management system built with MERN, focusing on scalability and 
      security.
 
