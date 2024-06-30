@@ -19,15 +19,19 @@ I'm a passionate MERN stack developer from Calicut, Kerala, India, with a deep l
 - ⚡ Fun Fact: I enjoy exploring new coding challenges and finding creative solutions.
 
 ### Technologies and Languages:
+
 - **JavaScript**
+- **HTML**
+- **CSS**
 - **Bootstrap**
-- **MongoDB**
-- **Express.js**
-- **Node.js**
-- **Data Structures**
-- **AWS**
-- **PostgreSQL**
-- **MySQL**
+- **Tailwind CSS**
 - **React.js**
 - **Redux.js**
-- **Tailwind CSS**
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **PostgreSQL**
+- **MySQL**
+- **EJS**
+- **AWS**
+- **Data Structures**
