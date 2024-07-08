@@ -35,3 +35,4 @@ I'm a passionate MERN stack developer from Calicut, Kerala, India, with a deep l
 - **EJS**
 - **AWS**
 - **Data Structures**
+- **Figma**
