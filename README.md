@@ -7,7 +7,7 @@ I'm a passionate MERN stack developer from Calicut, India, with a deep love for 
 - 🌱 I’m continuously learning and improving my knowledge base.
   
 - 💼 I have experience working on diverse projects, including:
-  - [E-commerce Platform](https://github.com/sinanptm/ecommerse-project): An e-commerce solution developed using the MERN stack.
+  - [E-commerce Platform](https://github.com/sinanptm/ecommerse-project): An e-commerce solution developed using the Nodejs, mongodb and ejs.
   -  [User Management System](https://github.com/sinanptm/user-managment-MERN): A comprehensive user management system built with MERN, focusing on scalability and security.
   
 - 🤝 I’m open to collaborating on exciting projects and contributing to the tech community.
