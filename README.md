@@ -1,4 +1,4 @@
-# Hi there, I'm Sinan! 👋
+# Hi there 👋
 
 I'm a passionate MERN stack developer from Calicut, India, with a deep love for coding and programming. Here's a bit about me:
 
