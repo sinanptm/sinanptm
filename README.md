@@ -1,17 +1,1 @@
 # Hi there 👋
-- **JavaScript**
-- **HTML**
-- **CSS**
-- **Bootstrap**
-- **Tailwind CSS**
-- **React.js**
-- **Redux.js**
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **PostgreSQL**
-- **MySQL**
-- **EJS**
-- **AWS**
-- **Data Structures**
-- **Figma**
