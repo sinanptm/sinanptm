@@ -1,21 +1,34 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sinan</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" />
 </p>
+
 <p align="center">
-  I'm a Full Stack Developer with a strong passion for creating dynamic and responsive web applications. My expertise spans across front-end and back-end technologies, allowing me to build full-fledged applications that not only function well but also provide an excellent user experience.
+  I'm a Full Stack Developer with expertise in both front-end and back-end technologies, dedicated to building dynamic, responsive web applications that deliver exceptional user experiences.
 </p>
+
 <p align="center">
-  I thrive on learning new technologies and pushing the boundaries of what's possible in web development. Whether it's exploring the latest JavaScript frameworks or optimizing server performance, I love diving into challenges and finding the best solutions.
+  Always eager to learn and embrace new challenges, I'm currently focused on serverless architectures and exploring AI and machine learning for future projects.
 </p>
-📫 How to reach me: Feel free to drop me an email at muhammedsinan0549@gmail.com if you'd like to connect or discuss any exciting opportunities!
 
-⚡ Fun fact: I believe that humor is an essential part of the development process – it keeps the code light and the spirits high!
+<p align="center">
+  📫 <strong>How to reach me:</strong> <a href="mailto:muhammedsinan0549@gmail.com">muhammedsinan0549@gmail.com</a>
+</p>
 
-🚀 What I'm currently working on: I'm deep diving into serverless architectures and exploring how to make applications more scalable and cost-effective.
+<p align="center">
+  ⚡ <strong>Fun fact:</strong> I believe humor is key to keeping code light and spirits high!
+</p>
 
-🌱 What I'm learning next: I'm planning to explore AI and machine learning to see how I can integrate these into my development workflow.
+<p align="center">
+  🚀 <strong>Currently working on:</strong> Scaling applications with serverless architectures.
+</p>
+
+<p align="center">
+  🌱 <strong>Learning next:</strong> AI and machine learning integration.
+</p>
+
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
