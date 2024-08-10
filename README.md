@@ -24,3 +24,16 @@
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat&logo=vite)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat&logo=material-ui)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat&logo=cloudinary)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![MVC](https://img.shields.io/badge/-MVC-black?style=flat)
+![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode)
+
+### GitHub Stats
+![Sinan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
+
+### Achievements
+- 🏆 Fullstack Engineer
+- 🌟 Expert in React, Node, AWS
+
+### Contact
+Feel free to reach out at muhammedsinan0549@gmail.com
