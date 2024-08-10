@@ -1,42 +1,20 @@
-<h1 align="center">Hi 👋, I'm Muhammed Sinan</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Muhammed sinan</h1>
+<h3 align="center">A passionate Full stack developer from India</h3>
+<img alt="Coding Image" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" width="400">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" />
+- 📫 How to reach me **muhammedsinan0549@gmail.com**
+
+- ⚡ Fun fact **i think iam funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammed-sinan-1950b3290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-sinan-1950b3290" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25472984/sinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25472984/sinan" height="30" width="40" /></a>
+<a href="https://instagram.com/si_an_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="si_an_z" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sinan_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sinan_z" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  I'm a Full Stack Developer with expertise in both front-end and back-end technologies, dedicated to building dynamic, responsive web applications that deliver exceptional user experiences.
-</p>
-
-<p align="center">
-  Always eager to learn and embrace new challenges, I'm currently focused on serverless architectures and exploring AI and machine learning for future projects.
-</p>
-
-<p align="center">
-  📫 <strong>How to reach me:</strong> <a href="mailto:muhammedsinan0549@gmail.com">muhammedsinan0549@gmail.com</a>
-</p>
-
-<p align="center">
-  ⚡ <strong>Fun fact:</strong> I believe humor is key to keeping code light and spirits high!
-</p>
-
-<p align="center">
-  🚀 <strong>Currently working on:</strong> Scaling applications with serverless architectures.
-</p>
-
-<p align="center">
-  🌱 <strong>Learning next:</strong> AI and machine learning integration.
-</p>
-
-
-<h3 align="center">Let's Connect!</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/muhammed-sinan-1950b3290" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/25472984/sinan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://instagram.com/si_an_z" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/sinan_z" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
