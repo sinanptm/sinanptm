@@ -1,22 +1,31 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sinan</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<p align="center">
-  <img alt="Coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" />
-</p>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" />
 </p>
-📫 Reach me at muhammedsinan0549@gmail.com
+<p align="center">
+  I'm a Full Stack Developer with a strong passion for creating dynamic and responsive web applications. My expertise spans across front-end and back-end technologies, allowing me to build full-fledged applications that not only function well but also provide an excellent user experience.
+</p>
+<p align="center">
+  I thrive on learning new technologies and pushing the boundaries of what's possible in web development. Whether it's exploring the latest JavaScript frameworks or optimizing server performance, I love diving into challenges and finding the best solutions.
+</p>
+📫 How to reach me: Feel free to drop me an email at muhammedsinan0549@gmail.com if you'd like to connect or discuss any exciting opportunities!
 
-⚡ Fun fact: I think I'm funny
+⚡ Fun fact: I believe that humor is an essential part of the development process – it keeps the code light and the spirits high!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+🚀 What I'm currently working on: I'm deep diving into serverless architectures and exploring how to make applications more scalable and cost-effective.
+
+🌱 What I'm learning next: I'm planning to explore AI and machine learning to see how I can integrate these into my development workflow.
+
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
   <a href="https://linkedin.com/in/muhammed-sinan-1950b3290" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/25472984/sinan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://instagram.com/si_an_z" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/sinan_z" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
