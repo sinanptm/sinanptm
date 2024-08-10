@@ -28,12 +28,10 @@
 ![MVC](https://img.shields.io/badge/-MVC-black?style=flat)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode)
 
-### GitHub Stats
-![Sinan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
 
 ### Achievements
 - 🏆 Fullstack Engineer
-- 🌟 Expert in React, Node, AWS
+- 🌟 Expert in React, Node, MongDB AWS.
 
 ### Contact
 Feel free to reach out at muhammedsinan0549@gmail.com
