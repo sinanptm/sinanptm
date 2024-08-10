@@ -7,16 +7,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat&logo=tailwind-css)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
@@ -27,6 +27,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![MVC](https://img.shields.io/badge/-MVC-black?style=flat)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode)
+
 
 
 ### Achievements
