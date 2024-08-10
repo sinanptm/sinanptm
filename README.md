@@ -1,39 +1,25 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammed sinan</h1>
+<h3 align="center">A passionate Full stack developer from India</h3>
+<img alt="Coding Image" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" width="400">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" /> </p>
 
-### Sinan
-**A Software Engineer | Full Stack | MERN**
+- 📫 How to reach me **muhammedsinan0549@gmail.com**
 
-### Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=007ACC)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux&logoColor=764ABC)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor=336791)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&logoColor=FFCA28)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat&logo=tailwind-css&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=181717)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat&logo=vite&logoColor=646CFF)
-![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat&logo=material-ui&logoColor=0081CB)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat&logo=cloudinary&logoColor=3448C5)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&logoColor=F24E1E)
-![MVC](https://img.shields.io/badge/-MVC-black?style=flat&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetcode&logoColor=FFA116)
+- ⚡ Fun fact **i think iam funny**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammed-sinan-1950b3290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-sinan-1950b3290" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25472984/sinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25472984/sinan" height="30" width="40" /></a>
+<a href="https://instagram.com/si_an_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="si_an_z" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sinan_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sinan_z" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinanptm&show_icons=true&locale=en&layout=compact" alt="sinanptm" /></p>
 
-### Achievements
-- 🏆 Fullstack Engineer
-- 🌟 Expert in React, Node, MongDB AWS.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinanptm&show_icons=true&locale=en" alt="sinanptm" /></p>
 
-### Contact
-Feel free to reach out at muhammedsinan0549@gmail.com
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinanptm&" alt="sinanptm" /></p>
