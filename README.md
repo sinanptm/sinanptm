@@ -20,6 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<div style="background-color:white; padding: 10px;">
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
@@ -73,6 +74,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
   </a>
 </p>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinanptm&show_icons=true&locale=en&layout=compact" alt="sinanptm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinanptm&show_icons=true&locale=en" alt="sinanptm" /></p>
