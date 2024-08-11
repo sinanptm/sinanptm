@@ -4,7 +4,7 @@
 <img alt="Coding" src="https://i.gifer.com/6tXM.gif" align="right" width="400">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" /> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s" alt="sinanptm" /> 
 </p>
 
 - 📫 **How to reach me:** [muhammedsinan0549@gmail.com](mailto:muhammedsinan0549@gmail.com)
