@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" /> 
 </p>
 
-- 📫 **How to reach me:** [muhammedsinan0549@gmail.com](mailto:muhammedsinan0549@gmail.com)
+- 📫 **Reach me at:** [muhammedsinan0549@gmail.com](mailto:muhammedsinan0549@gmail.com)
 
 - ⚡ **Fun fact:** I love bringing ideas to life with code and a bit of humor!
 
