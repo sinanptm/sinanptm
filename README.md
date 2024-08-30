@@ -4,7 +4,7 @@
 <img alt="One Piece " src="https://camo.githubusercontent.com/e3614db13d432ec64082567ae535cb0c157acd19c8106fa0d1d01511b8de583e/68747470733a2f2f692e67697068792e636f6d2f6d656469612f5554656b3071334e386f73683861674834592f67697068792e77656270" align="right" width="400">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" /> 
+  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.co.uk%2Fpin%2F621426448572352444%2F&psig=AOvVaw2WztiBWSmKWG0rtpapIbME&ust=1725078182573000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwinqsOT75uIAxXb9zgGHc3jBJgQjRx6BAgAEBc"" alt="Hey There 👋" /> 
 </p>
 
 - 📫 **Reach me at:** [muhammedsinan0549@gmail.com](mailto:muhammedsinan0549@gmail.com)
