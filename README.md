@@ -43,6 +43,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![OAuth](https://img.shields.io/badge/OAuth-3C78A9?style=flat&logo=oauth&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-%230D6EFD.svg?style=flat&logo=architecture&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-%230D6EFD.svg?style=flat&logo=architecture&logoColor=white)
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%230D6EFD.svg?style=flat&logo=architecture&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
