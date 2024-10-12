@@ -54,6 +54,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white)
+![V0](https://img.shields.io/badge/V0-4E54E2?style=flat&logo=react&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-4A154B?style=flat&logo=react&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)
