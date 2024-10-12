@@ -55,7 +55,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) 
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white)
 
 
 # 📊 GitHub Stats:
