@@ -43,7 +43,6 @@
 ![Winston](https://img.shields.io/badge/Winston-231F20?style=flat&logo=winston&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%230D6EFD.svg?style=flat&logo=architecture&logoColor=white)  
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-%230D6EFD.svg?style=flat&logo=architecture&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![OAuth](https://img.shields.io/badge/OAuth-3C78A9?style=flat&logo=oauth&logoColor=white)
