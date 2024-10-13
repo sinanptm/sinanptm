@@ -74,21 +74,9 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 ![SEO](https://img.shields.io/badge/SEO-4CAF50?style=flat&logo=google&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=flat&logo=google&logoColor=white)
-![Ahrefs](https://img.shields.io/badge/Ahrefs-0A66C2?style=flat&logo=ahrefs&logoColor=white)
-![Yoast SEO](https://img.shields.io/badge/Yoast%20SEO-30218A?style=flat&logo=yoast&logoColor=white)
-![Semrush](https://img.shields.io/badge/Semrush-FF6D00?style=flat&logo=semrush&logoColor=white)
-![GTmetrix](https://img.shields.io/badge/GTmetrix-3498DB?style=flat&logo=gtmetrix&logoColor=white)
-![PageSpeed Insights](https://img.shields.io/badge/PageSpeed%20Insights-34A853?style=flat&logo=google&logoColor=white)
-![Schema.org](https://img.shields.io/badge/Schema.org-FF0000?style=flat&logo=schema.org&logoColor=white)
-![Rich Snippets](https://img.shields.io/badge/Rich%20Snippets-2E7D32?style=flat&logo=structured-data&logoColor=white)
-![Sitemap](https://img.shields.io/badge/Sitemap-4CAF50?style=flat&logo=sitemap&logoColor=white)
-![Robots.txt](https://img.shields.io/badge/Robots.txt-FF5733?style=flat&logo=robots&logoColor=white)
+![Vercel Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![Open Graph](https://img.shields.io/badge/Open%20Graph-008000?style=flat&logo=facebook&logoColor=white)
 ![Twitter Card](https://img.shields.io/badge/Twitter%20Card-1DA1F2?style=flat&logo=twitter&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white)
-![Moz](https://img.shields.io/badge/Moz-007ACC?style=flat&logo=moz&logoColor=white)
-![SurferSEO](https://img.shields.io/badge/Surfer%20SEO-F37C20?style=flat&logo=surferseo&logoColor=white)
 
 
 
