@@ -30,9 +30,12 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![SEO](https://img.shields.io/badge/SEO-4CAF50?style=flat&logo=google&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Stripe](https://img.shields.io/badge/stripe-%236464FF.svg?style=flat&logo=stripe&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/razorpay-%2300A7E1.svg?style=flat&logo=razorpay&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+![Vercel Analytics](https://img.shields.io/badge/Vercel%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=google&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
@@ -72,9 +75,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
-![SEO](https://img.shields.io/badge/SEO-4CAF50?style=flat&logo=google&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
-![Vercel Analytics](https://img.shields.io/badge/Vercel%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
 
 
