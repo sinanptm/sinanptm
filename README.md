@@ -75,8 +75,6 @@
 ![SEO](https://img.shields.io/badge/SEO-4CAF50?style=flat&logo=google&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 ![Vercel Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
-![Open Graph](https://img.shields.io/badge/Open%20Graph-008000?style=flat&logo=facebook&logoColor=white)
-![Twitter Card](https://img.shields.io/badge/Twitter%20Card-1DA1F2?style=flat&logo=twitter&logoColor=white)
 
 
 
