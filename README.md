@@ -11,11 +11,12 @@
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/si_an_z) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinanptm) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25472984)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2300E676.svg?logo=whatsapp&logoColor=white)](https://wa.me/918089507749)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/si_an_z) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sinanptm) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/25472984)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2300E676.svg?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/918089507749)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=globe&logoColor=white&style=for-the-badge)](https://sinanptm.vercel.app)
+
 
 
 
