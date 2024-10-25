@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinanptm) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25472984)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2300E676.svg?logo=whatsapp&logoColor=white)](https://wa.me/918089507749)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=globe&logoColor=white)](https://sinanptm.vercel.app)
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=globe&logoColor=white)](https://sinanptm.vercel.app)
 
 
 # 💻 Tech Stack
