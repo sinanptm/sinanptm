@@ -11,11 +11,11 @@
 </p>
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=globe&logoColor=white&style=for-the-badge)](https://sinanptm.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sinanptm)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/si_an_z)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sinanptm)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2300E676.svg?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/918089507749)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/25472984)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=globe&logoColor=white&style=for-the-badge)](https://sinanptm.vercel.app)
 
 
 
