@@ -15,7 +15,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sinanptm) [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=globe&logoColor=white&style=for-the-badge)](https://sinanptm.vercel.app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/si_an_z) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2300E676.svg?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/918089507749) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/25472984)
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinanptm/sinanptm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinanptm/sinanptm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sinaptm/sinanptm/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 # 💻 Tech Stack
