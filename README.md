@@ -1,10 +1,6 @@
 ## 💫 About Me
 
-- 🚀 Currently working on exciting projects that push the boundaries of web development
-- 🌱 Always learning and exploring new technologies
-- 💡 Passionate about creating user-friendly and efficient applications
-- 😄 Pronouns: He/Him
-- 🎯 Goal: To make the digital world a better place, one line of code at a time
+ Mern Stack developer
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" /> 
