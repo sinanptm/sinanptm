@@ -74,11 +74,6 @@
 
 
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sinanptm&theme=dark&hide_border=false)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sinanptm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
