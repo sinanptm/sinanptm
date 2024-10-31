@@ -1,4 +1,4 @@
-## 💫 Mern Stack developer
+## 💫 Full Stack developer
 
 ## 🌐 Socials:
 
