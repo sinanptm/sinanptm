@@ -16,7 +16,7 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next_15-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NUQS](https://img.shields.io/badge/NUQS-4285F4?style=flat&logo=react-query&logoColor=white)
+![NUQS](https://img.shields.io/badge/Nuqs-000000?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Stripe](https://img.shields.io/badge/stripe-%236464FF.svg?style=flat&logo=stripe&logoColor=white)
